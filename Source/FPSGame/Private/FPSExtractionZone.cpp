@@ -6,6 +6,7 @@
 #include "Components/DecalComponent.h"
 #include "FPSCharacter.h"
 #include "FPSGameMode.h"
+#include "Components/ArrowComponent.h"
 #include "Kismet/GameplayStatics.h"
 
 // Sets default values
